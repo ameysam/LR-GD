@@ -1,4 +1,4 @@
-# Linear Regression using Gradient Descent
+# Simple Linear Regression using Gradient Descent
 
 # Meysam Alipuor
 ## meysam.alipuor@gmail.com
